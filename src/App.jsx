@@ -1,4 +1,5 @@
 import "./App.css";
+import "@fontsource/roboto";
 import { Home } from "./pages/Home";
 import { Routes, Route } from "react-router-dom";
 
